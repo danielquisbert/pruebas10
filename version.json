@@ -1,1 +1,1 @@
-{"versionCode": 6,"versionName": "1.0.5","apkUrl": "https://danielquisbert.github.io/pruebas10/agc_cyr.apk","changelog": "registro y exportacion de log / exportación de json de cortes cumplidos"}
+{"versionCode": 7,"versionName": "1.0.6","apkUrl": "https://danielquisbert.github.io/pruebas10/agc_cyr.apk","changelog": "Consulta deuda por cliente, Cierre controlado, Agrega nro medidor en la notificación, reingreso sin login si se cierra la sesion"}
